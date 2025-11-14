@@ -7,7 +7,7 @@ Hoje estou mergulhado no universo Java ☕ seguindo com intusiasmos e empolgaça
 Este repositório reúne meus exercícios e projetos baseados nas apostilas do curso técnico de desenvolvimento de sistemas da instituição Firjan SENAI 
 inicaido em 8 de agosto de 2025, com acompanhamnto e instrução do professor Marco Aurelio Hensen.
 
-obs: Osexercicos estao sendo ppstado uns mesmes depois do comeco do curso tecnico por que eu quis me aprimiar no conhecimento obtido.
+obs: Os exercicos estao sendo postado uns mesmes depois do comeco do curso tecnico por que eu quis me aprimiar no conhecimento obtido.
      Nao aprendemos todo o conteudo da linguagem java por que o modulo era logica de programaçao mas deu para a aperder muitas coisa dessa linguagem.
 
 ---

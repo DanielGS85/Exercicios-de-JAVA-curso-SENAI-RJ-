@@ -61,7 +61,7 @@ Próximos passos
 
 Estou praticando e evoluindo com:
 
-* Banco de dados (MySQL e JDBC)
+* Banco de dados (POSTGRES, MySQl)
 * Interfaces gráficas (Swing)
 * Estruturas de dados mais avançadas (pilhas, filas)
 * Desenvolvimento web com Java (Servlets, JSP)
